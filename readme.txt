@@ -1,1 +1,2 @@
-Create a new bracnch is quick &add smaple
+Create a new bracnch is quick add sample
+
